@@ -1,5 +1,5 @@
 # LoadingView
-
+![LoadingView](device-2016-12-18-130021.png)
 # useage
 
 ## gradle
